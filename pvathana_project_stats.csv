@@ -1,0 +1,11 @@
+project;number of commits;number of authors;max time;min time;LongestGapStart;LongestGapEnd;LongestGapLength;NumCommitsAfterLastGap;NumberOfGapsInTimeline;number of stars;number of forks;last commit date;ActivityPattern
+mucollective_multidy;120;15;2025-10-08 20:48:42;2019-06-10 14:19:20;2023-04;2024-06;15;11;3;67;5;2026-09-11;declining
+askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;258;7;2025-04-15 14:27:35;2018-07-30 23:54:19;2023-02;2024-03;14;18;7;154;43;2026-01-04;irregular
+esmvalgroup_esmvaltool;10353;295;2026-04-17 11:04:12;2017-01-26 14:15:37;;;0;0;0;276;153;2026-09-22;irregular
+rtiinternational_smart;540;33;2025-02-01 06:42:54;2017-05-18 17:39:52;2019-07;2019-11;5;311;3;232;31;2024-12-02;irregular
+jannisborn_covid_detector;140;18;2024-07-09 17:56:57;2020-03-28 15:17:49;2022-05;2023-08;16;6;3;174;81;2025-04-18;declining
+overlordgolddragon_ssqueezepy;127;6;2025-08-02 02:30:27;2020-06-12 11:31:59;2024-12;2025-07;8;5;7;805;106;2025-08-23;declining
+rust-bio_rust-bio;770;120;2025-11-03 04:04:38;2015-01-16 16:43:41;2023-02;2023-04;3;112;2;1800;221;2026-09-16;irregular
+ccsb-scripps_autodock-gpu;370;25;2025-01-30 22:41:15;2017-06-13 17:36:32;2019-07;2020-02;8;251;4;615;151;2026-08-11;irregular
+ebivariation_eva-tools;310;29;2025-05-04 06:51:23;2015-11-02 13:59:17;2018-04;2018-09;6;101;10;1;13;2026-07-24;declining
+opendatacube_datacube-alchemist;280;25;2025-11-03 17:06:22;2019-08-07 06:31:12;2024-05;2024-09;5;55;6;22;6;2026-09-28;irregular
