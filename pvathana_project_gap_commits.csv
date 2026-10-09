@@ -1,0 +1,547 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;mucollective_multidy;00fc9900756b6e904d78a5e15eb048b1c8e82576;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1659475429;"custom.js changes
+"
+pre;mucollective_multidy;155dc3d983ba58196a1e9695c6729eec9e609a76;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1659475520;"Merge branch 'tangle' of https://github.com/MUCollective/multiverse into tangle
+"
+pre;mucollective_multidy;4a56c5f7775e36ddb78c55ded97ff4888996084a;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1664244998;"tests pass
+"
+pre;mucollective_multidy;eeebe7affb292f5f291060d5f82431da681dcfa9;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1664377602;"shift from future to furrr, export_json and code pretty printing updates
+"
+pre;mucollective_multidy;4a7d4da5cc4d2e52a3e57e63e63bbd0b2f237ffc;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1664570122;"code cleanup and tests for export_json and linear execution
+"
+pre;mucollective_multidy;dae96390d110e7de9435ee16973a4023796c9e18;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1665676691;"parallel execution fixes + extended functionality to execute partial multiverse in parallel
+"
+pre;mucollective_multidy;31202dbcda9fd8e88ac64a187eb794c5c1988d53;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1667918378;"stylise code and extract branches for mvis
+"
+pre;mucollective_multidy;dae024bc1ce2cdc95fafb424243178b237770716;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1674775368;"fix to take into account arbitrary multiverse specifications by sorting on dictionary keys
+"
+pre;mucollective_multidy;c544f9566b1e8e40274484b95e3d02626b39e69c;Kyle Hwang <60527858+hwangkyle@users.noreply.github.com>;1679168879;"some changes to Rmd files
+"
+pre;mucollective_multidy;937ce1e9b158b5a56950fbe705fe1a27a30d4791;Kyle Hwang <60527858+hwangkyle@users.noreply.github.com>;1679169002;"merge
+"
+post;mucollective_multidy;aa7f102948655b68878c1021aaf34960b8c0c368;Hadley Wickham <h.wickham@gmail.com>;1721081632;"Fix typo
+"
+post;mucollective_multidy;117a8ebbd4c73f1ba513a2313d63c023917b787a;Abhraneel Sarma <abhraneel@Abhraneels-MacBook.local>;1722202185;"Merge branch 'hadley-evaluate-1.0.0'
+fixes for evaluate update
+"
+post;mucollective_multidy;5bb4052f634ccbb20912becaf58679a166c64c1a;Abhraneel Sarma <abhraneel@Abhraneels-MacBook.local>;1722268945;"vignette updates
+"
+post;mucollective_multidy;011fed210527fee9960a55fe4e7a4d4f38c67d26;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1722544742;"updated documentation and gh pages
+"
+post;mucollective_multidy;c02d0724da70f356c74eb02e3936ad2b16605f42;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1722544868;"other fixes
+"
+post;mucollective_multidy;98c5f31f65bde8b2af1964b9b0f04a83c9b70102;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1722727542;"warning message for asymmetric trees #100
+"
+post;mucollective_multidy;2db9d380855f3139b199f5e604db811f3c3429df;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1726412610;"updates to the knitr multiverse notebook
+"
+post;mucollective_multidy;94ebdfd3bbe4238f38a6e78e5fe05663de48eed6;Abhraneel Sarma <abhraneelsarma2024@u.northwestern.edu>;1728308007;"rbuildignore changes
+"
+post;mucollective_multidy;d65f3bab26dbb5438c5e260b0cfeae265fad66ac;emstruong <112967876+emstruong@users.noreply.github.com>;1757343551;"Clarified explanation
+"
+post;mucollective_multidy;6f9bfa3f8ef30ebf0f6f8519aeb743b478c289a8;Michael S. Truong <112967876+emstruong@users.noreply.github.com>;1757382308;"Issue 129 (#130)
+
+* Issue 129
+
+* Clarified explanation
+
+* Clarified original"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;e32e3dd68856abff20d0e2c2f99494884d6c8a38;Solomon Kurz <a.solomon.kurz@gmail.com>;1673924675;"minor code edits
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;ecbcfdd5522643ec9ade894387ff8d5374fad31c;Solomon Kurz <a.solomon.kurz@gmail.com>;1673969522;"LaTeX
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;d9be77fa51cd3fa1344cf4215e9af5e762375eb0;Solomon Kurz <a.solomon.kurz@gmail.com>;1673993189;"linewidth
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;21115204827564d815306a6e5083809ddcd985f4;Solomon Kurz <a.solomon.kurz@gmail.com>;1673993267;"no space
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;6a3dda62495104cd5b195f1d37c7cd6210db9e0e;Solomon Kurz <a.solomon.kurz@gmail.com>;1673993557;"after_stat()
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;eb75817950f6ad33dcb0489d9d21400c5a1a28ec;Solomon Kurz <a.solomon.kurz@gmail.com>;1674694390;"zotero
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;1e7bd0be8f62924c6038316a5103266c699c4677;Solomon Kurz <a.solomon.kurz@gmail.com>;1674694418;"bookdown 1.1.0
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;810a6f982316b621b503687cf54b9d1c3b0733d2;Solomon Kurz <a.solomon.kurz@gmail.com>;1674697052;"bookdown 1.1.0
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;ff8c1afc87269b1bc81c049c5d528667659f1f0d;Solomon Kurz <a.solomon.kurz@gmail.com>;1674697076;"bookdown 1.1.0
+"
+pre;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;f573b7e85760d6e5c6b18b44399911b45a7a4ae3;Solomon Kurz <a.solomon.kurz@gmail.com>;1674697088;"bookdown 1.1.0
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;b7490ddf23a752890fe74f6f062fef5e9a334090;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1712760770;"add Hamiltonian Dynamics plots
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;3462927d2ff144314cd0f399f808d9c103cd5eec;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1716847888;"Figure 10.3 overhaul
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;554575187a0e5ac9e4a1b1360f5b9b888c7d5d08;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593378;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;34c42b6108a34e16e73359488e4e628311ddfd44;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593650;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;9490c88bdeb9964cc85f830dec0889c62e839b80;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593676;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;49e08b1ebee419c238bd07265705d95d32909eee;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593712;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;0d53d56f16aaa08b5383ecbcd0ce231cb2621ece;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593812;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;7fff95d6c36f8d18a06211c90e3aecdd8d4258d0;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593876;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;f5502a2b20a270546efbfabca57e452c23436bda;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744593975;"switch bookdown for quarto
+"
+post;askurz_doing-bayesian-data-analysis-in-brms-and-the-tidyverse;0b25a68ff553448c633896fc57b4e2d5a6e07fbf;Solomon Kurz <solomonkurz@Solomons-MacBook-Pro.local>;1744594072;"switch bookdown for quarto
+"
+pre;rtiinternational_smart;d8aca249483eafcc9081a46bdf6c6802931870ad;wengerm50 <mwenger@rti.org>;1538150521;"Import our docs [skip ci]
+"
+pre;rtiinternational_smart;5cb48bbbed61ac7181e17768e142b2fc9201aa79;wengerm50 <mwenger@rti.org>;1538150758;"add html_context to sphinx conf [skip ci]
+"
+pre;rtiinternational_smart;523c06b39279793543d42dedfee1354d502bc823;wengerm50 <m.wenger50@gmail.com>;1538151586;"Add RTD Badge
+
+Add read-the-docs badge to the main README.
+
+https://smart-app.readthedocs.io/en/latest/"
+pre;rtiinternational_smart;fa128b78e4fb068e94c5599bbcedb6a1f3327b27;Rob <rchew@rti.org>;1538253175;"update README
+"
+pre;rtiinternational_smart;52edfab3c0a86dfb680a0ce814cb15a6246f7761;Rob <rchew@rti.org>;1538487634;"fix typo on landing page
+"
+pre;rtiinternational_smart;1978e499369c5fb25f0a92d68d62c2c2c599549d;wengerm50 <mwenger@rti.org>;1552068210;"Add Dockerfile, requirements.txt, and UsageExamples to model export
+
+Since we are using pickles it is important to preserve the environment in
+which the pickles are created.  Additionally sklearn models are picky about
+the version of sklearn models are created with.  Therefore we have added a
+requirements.txt file which pins the versions and a Dockerfile which can be used
+to setup the environemnt.
+
+Also U\updated the export readme to account for all the new files.
+"
+pre;rtiinternational_smart;b314fcaeee6060f4fa2763215ef91410691bf18b;wengerm50 <mwenger@rti.org>;1552070762;"Strip ""\n"" newlines from text.
+
+We already strip ""\t"" and ""\r"".  These special escape characters do
+not work nicely with postgres copy_from
+"
+pre;rtiinternational_smart;14ec252eb37f3bd5406204744c5ba0eeecf95a00;Rob Chew <rchew@users.noreply.github.com>;1552295129;"Merge pull request #8 from RTIInternational/docs-installation-migrate
+
+Add instructions for migrating the database in setup"
+pre;rtiinternational_smart;4ed50017399851879b8cb326cdc27140c6eebfd0;wengerm50 <mwenger@rti.org>;1553884626;"Bump up the docker python version from 3.5.3 to 3.5.7
+
+3.5.3 is no longer supported and used debian-jessie as its dependency.
+Jessie repostitories have been archived, so apt-get fails
+"
+pre;rtiinternational_smart;112863af21e4a23bc5621f07ab75f797a4897b0d;Rob Chew <rchew@users.noreply.github.com>;1559484455;Update README with citation info
+post;rtiinternational_smart;86b678f90eb570c486bced6cd163aa8184478ae3;Caroline Kery <ckery@rti.org>;1575995225;"make some fixes which seemed to cause the build to fail
+"
+post;rtiinternational_smart;91defea5553124ce450e6f56bcfd9ef5aa5b21b3;Caroline Kery <ckery@rti.org>;1576679598;"add form for media which I forgot to add earlier
+"
+post;rtiinternational_smart;532c89a2a1eb897d7bb032823899c7279e18480c;Caroline Kery <ckery@rti.org>;1576680482;"fixed the pre-commit hooks so they run properly when someone calls git commit
+"
+post;rtiinternational_smart;374d7a6b9904669d5c487309694ae7ccb3065aa5;Caroline Kery <ckery@rti.org>;1576691661;"add the DataViewer component to tables, running into a weird error with History ReactTable no longer updating when skip is pressed
+"
+post;rtiinternational_smart;9185fbeb2680bc92aad7ea0df01c44d57f0c0ca8;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1576696350;"Bump sshpk from 1.13.0 to 1.16.1 in /frontend
+
+Bumps [sshpk](https://github.com/joyent/node-sshpk) from 1.13.0 to 1.16.1.
+- [Release notes](https://github.com/joyent/node-sshpk/releases)
+- [Commits](https://github.com/joyent/node-sshpk/compare/v1.13.0...v1.16.1)
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;rtiinternational_smart;e15b339e5bb101b53c0ea6f7fc97fc95d9b06217;Caroline Kery <ckery@rti.org>;1576696864;"remove caret from reactnvd3
+"
+post;rtiinternational_smart;71bc4449a197cb25274bd8be37c63b4be843300b;AstridKery <ckery1@umbc.edu>;1576696893;"Merge pull request #30 from RTIInternational/remove_caret_from_reactnvd3
+
+remove caret from reactnvd3"
+post;rtiinternational_smart;dd1c6af4a0eb162a4405be63f38a83d2e02a35aa;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1576696905;"Merge 9185fbeb2680bc92aad7ea0df01c44d57f0c0ca8 into 71bc4449a197cb25274bd8be37c63b4be843300b
+"
+post;rtiinternational_smart;31432b06f79491051d658e813bbc615261171e3e;wengerm50 <mwenger@rti.org>;1576786857;"Adds bulletpoint for eslint to formatter section
+"
+post;rtiinternational_smart;413bd4cf7d40ddd96f2e7542a72bf401444dd648;Caroline Kery <ckery@rti.org>;1577732677;"clean up the label component styling. Also had to move the subcomponent in the admin table because as it was it wasn't scrolling when there were a lot of labels in the dropdown
+"
+pre;jannisborn_covid_detector;e9392c0582c86b1429a75a8a61af28309b52764b;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1632299074;"build(deps): bump tmpl from 1.0.4 to 1.0.5 in /pocovidscreen
+
+Bumps [tmpl](https://github.com/daaku/nodejs-tmpl) from 1.0.4 to 1.0.5.
+- [Release notes](https://github.com/daaku/nodejs-tmpl/releases)
+- [Commits](https://github.com/daaku/nodejs-tmpl/commits/v1.0.5)
+
+---
+updated-dependencies:
+- dependency-name: tmpl
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;jannisborn_covid_detector;656b1d560fff4a4fc5966efa55ad34ca913ac2f6;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1636575639;"build(deps): bump tensorflow from 2.2.0rc1 to 2.5.2 in /pocovidnet
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.0rc1 to 2.5.2.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.0-rc1...v2.5.2)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;jannisborn_covid_detector;d70c95dea6c7a3755f405e9f5f443f216f66e680;nickdnickd <nicholasdiplacido@gmail.com>;1644021277;"update README butterfly ultrasound gallery link
+"
+pre;jannisborn_covid_detector;fa72b045c8770b9101fd2551f5dc34b2ca0e56d9;ggare-cmu <ggare@andrew.cmu.edu>;1648884789;"Added lung-severity scores; Updated Data Readme file; Updated root Readme file;
+"
+pre;jannisborn_covid_detector;439fa488e87db0d81194d0da74873624af16c1db;ggare-cmu <ggare@andrew.cmu.edu>;1648885625;"corrected header size
+"
+pre;jannisborn_covid_detector;218c789af87e974773c50f4016bba71b86d1a4b2;ggare-cmu <ggare@andrew.cmu.edu>;1648887372;"corrected path of dataset_metadata.csv
+"
+pre;jannisborn_covid_detector;b435a77bd61902f7e1a9f51eef864da3ab7649c3;ggare-cmu <ggare@andrew.cmu.edu>;1648888071;"updated figure
+"
+pre;jannisborn_covid_detector;b19c9db89bf2492197e6f85376cec17df592d9e6;ggare-cmu <ggare@andrew.cmu.edu>;1649666332;"Corrected dataset_metadata.csv file format
+"
+pre;jannisborn_covid_detector;787792bcaf011004cda71fa4c1482a48ce63b3aa;Gautam R Gare <59180892+ggare-cmu@users.noreply.github.com>;1649885286;"Added lung-severity scores;  (#106)
+
+* Added lung-severity scores; Updated Data Readme file; Updated root Readme file;
+
+* corrected header size
+
+* corrected path of dataset_metadata.csv
+
+* updated figure
+
+* Stated CC license category for severity labels; Added metadata columns names in data/Readme.md file; Added bibtex citation enetry for severity score labels paper; Moved the 'lung severity column' closer to 'label' column in dataset_metadata.csv file; Deleted duplicate row-8 (same as row-23) in dataset_metadata.csv filel
+
+* Corrected dataset_metadata.csv file format"
+pre;jannisborn_covid_detector;529c06a651ee42fb4d47445f72eede0ed3337245;Jannis Born <jannis.born@gmx.de>;1649885503;Update README.md
+post;jannisborn_covid_detector;430572b1519ec74042e9220e59cfc725ee553718;Jannis Born <jannis.born@gmx.de>;1694072576;Update mail
+post;jannisborn_covid_detector;c1a99f6486b3456670d953bba9de1a1a665612c0;lingyigt <lingyigt@gmail.com>;1712526132;"Change main README.md file to add external repository link
+"
+post;jannisborn_covid_detector;664f0667a22f00350c57cf5507b62fe21b7a75a7;lingyigt <lingyigt@gmail.com>;1712545339;"Change capitalization
+"
+post;jannisborn_covid_detector;afaa5be41228e34f930eb63389e7eea8fbe97bad;Jannis Born <jannis.born@gmx.de>;1712612304;Update README.md
+post;jannisborn_covid_detector;e98d28e2357dea0eaf902582ef5f704d93ea1cff;lingyigt <lingyigt@gmail.com>;1712801416;"Add bibtex and remove redundant 'label'
+"
+post;jannisborn_covid_detector;8c2bd8c003462e6c92bb652eebeb15f9efa35746;jannisborn <jab@zurich.ibm.com>;1720547817;"refactor: Move data location
+"
+pre;overlordgolddragon_ssqueezepy;2687da24a86f8fc6295c6f0a56ac5be1edd7b5fa;OverLordGoldDragon <john.muradeli@gmail.com>;1681487104;"small fixes; small feature
+"
+pre;overlordgolddragon_ssqueezepy;ef48eb53418c50035d4e79ff41410fe0dcd82391;OverLordGoldDragon <john.muradeli@gmail.com>;1681571743;"Update conda.yml
+"
+pre;overlordgolddragon_ssqueezepy;9dbd78ff43751bd82b76372e6414237a693022d4;OverLordGoldDragon <john.muradeli@gmail.com>;1681649076;"[skip ci]
+"
+pre;overlordgolddragon_ssqueezepy;27a28974722304b7957670acfaa1c056ae7760e3;OverLordGoldDragon <john.muradeli@gmail.com>;1681736851;"yes
+"
+pre;overlordgolddragon_ssqueezepy;87a302cfb7209ab9b81ecbb5580a67be796ccb9b;John Muradeli <john.muradeli@gmail.com>;1693281069;"Update conda.yml
+"
+pre;overlordgolddragon_ssqueezepy;0dc2558f6abc2165d1bab8c1bb97c7983e11b5e8;John Muradeli <john.muradeli@gmail.com>;1693281976;"docs; README; testing
+
+See changelog"
+pre;overlordgolddragon_ssqueezepy;507293a3668711f65b51006843d7956fb28ead2d;John Muradeli <john.muradeli@gmail.com>;1711571858;"Update deprecated CuPy method
+"
+pre;overlordgolddragon_ssqueezepy;85563d024879d561ca4a56cd0c31a6e8d408cacb;John Muradeli <john.muradeli@gmail.com>;1711712726;"Update deprecated CuPy method
+
+"
+pre;overlordgolddragon_ssqueezepy;c8296054b90f86ca2fd8d08c163d80c53cac69d1;John Muradeli <john.muradeli@gmail.com>;1721867947;"Support batched `icwt`; fix `icwt` with `scaletype='linear'`
+"
+pre;overlordgolddragon_ssqueezepy;dbe86960ebd035aa7a86c4be4368701196ce5416;John Muradeli <john.muradeli@gmail.com>;1731557658;"Padding fix in `scale_to_freq`
+
+#113"
+post;overlordgolddragon_ssqueezepy;62c300586d02dc9c2abcf6668ada61087f661045;John Muradeli <john.muradeli@gmail.com>;1754087365;"misc
+
+1. original `scales` passed to `Wavelet` are now stored as copies inside of `Wavelet` (so modifying it externally doesn't modify `Wavelet`'s)
+2. `plot(, abs=1)` now auto-scales ylims to `(0, None)` (if `ylims` isn't passed)
+3. fix matplotlib version determination
+4. visuals, `plot` & `scat`: `vlines` and `hlines` should now apply correctly if `ax` is supplied
+"
+post;overlordgolddragon_ssqueezepy;9fa5f04f38a469c97204a0e5b8a7456a2f3488d7;John Muradeli <john.muradeli@gmail.com>;1754092481;"Update requirements-dev.txt
+"
+post;overlordgolddragon_ssqueezepy;b4d65dd2c3549b54e83ad9d1c4e249c8688056f7;John Muradeli <john.muradeli@gmail.com>;1754093274;"misc
+
+1. original `scales` passed to `Wavelet` are now stored as copies inside of `Wavelet` (so modifying it externally doesn't modify `Wavelet`'s)
+2. `plot(, abs=1)` now auto-scales ylims to `(0, None)` (if `ylims` isn't passed)
+3. fix matplotlib version determination
+4. visuals, `plot` & `scat`: `vlines` and `hlines` should now apply correctly if `ax` is supplied
+5. fix `requirements-dev.txt` to be up to date on build-related packages"
+post;overlordgolddragon_ssqueezepy;3995a553781bf75add9104ebac08f615f91f6298;John Muradeli <john.muradeli@gmail.com>;1754098624;"Add Git LFS; add differentiability gif
+"
+post;overlordgolddragon_ssqueezepy;50e69f3c8ac0d18b8434b2092fc0fed1ff426be3;John Muradeli <john.muradeli@gmail.com>;1754101827;"add docs mention
+"
+pre;rust-bio_rust-bio;e087b05eb2d7a4177f0e020a70f59ad60e0c5f30;Brooks J Rady <b.j.rady@gmail.com>;1664888806;"fix(bench): removed unneeded derives from benches
+"
+pre;rust-bio_rust-bio;ca9707ed3828fb02232ff877410fd1d3b069d329;Ptipiak <Ptipiak.off@gmail.com>;1670071162;"docs: Pull request reviews
+"
+pre;rust-bio_rust-bio;c08623ba1bf2a44d9293ea0c9f6f496667ffb8c6;Brooks Rady <b.j.rady@gmail.com>;1670942147;"feat: add standard derives to all public types (#505)
+
+* feat: add standard derives to all public types
+
+* fix(clippy): remove unnecessary clones
+
+* fix(build): fix changes breaking tarpaulin
+
+* fix(bench): removed unneeded derives from benches"
+pre;rust-bio_rust-bio;eff654cdd47c70eb88bbcaeef205fff28c78d03d;Derek Croote <dcroote@users.noreply.github.com>;1671894162;"chore: remove unnecessary let
+"
+pre;rust-bio_rust-bio;52f30703afbb74c6339395c9825fa4db7f798005;Derek Croote <dcroote@users.noreply.github.com>;1671904489;chore: update CI badge
+pre;rust-bio_rust-bio;1bfe94b3d74cc21e4f3f40e00c2e694ce9094386;Khang Nguyen Duy <40488299+iceghost@users.noreply.github.com>;1672630561;fix broken link in `bwt.rs`
+pre;rust-bio_rust-bio;7d6ca73fb053bb8fa30f2469c9d8b42b0dad9b5d;Khang Nguyen Duy <40488299+iceghost@users.noreply.github.com>;1672661310;"Update src/lib.rs
+
+use semanticscholar link
+
+Co-authored-by: David Laehnemann <david.laehnemann@hhu.de>"
+pre;rust-bio_rust-bio;363738af0079eae5523b6aeb2f583f4ed44306c7;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1672694158;chore: release 1.1.1
+pre;rust-bio_rust-bio;9d672593a803688128588969a8e396c24788d6c8;minindu0 <mw8511@live.com>;1673295994;"poa edge case fix
+"
+pre;rust-bio_rust-bio;36ae2ad96d81b1f790a4fbeb74b23f3024345298;minindu0 <mw8511@live.com>;1673296044;"Merge branch 'poa_fix' of https://github.com/minindu0/rust-bio into poa_fix
+"
+post;rust-bio_rust-bio;ba64c9b2b11f5a08a45349b8c3278d9e8c4d4d1a;Ragnar Groot Koerkamp <ragnar.grootkoerkamp@gmail.com>;1685006172;"feat: Implement ExactSizeIterator for QGrams over ExactSizeIterator
+"
+post;rust-bio_rust-bio;52eba95c18b6896ba721531b8012498f485ef450;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1686046139;"chore: release 1.2.0 (#523)
+
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+post;rust-bio_rust-bio;81573301b83409f297505a5dcdb85c4a5940c9b1;Johannes Köster <johannes.koester@tu-dortmund.de>;1686047392;Update Cargo.toml
+post;rust-bio_rust-bio;2d7b7ea58b67b122fffcdb64350362b00e629f2d;minindu0 <mw8511@live.com>;1686168808;"formatting 2
+"
+post;rust-bio_rust-bio;b073b13cafca8717f08d46c3b5a2f6005f659e90;Matheus <cardosaum@pm.me>;1686595448;"docs: Propose addition of Transcribe and Translate features
+"
+post;rust-bio_rust-bio;8b16ac79b94a144f511dd0d6058b2ba7e36aeb1c;Johannes Köster <johannes.koester@tu-dortmund.de>;1686767428;Merge branch 'master' into poa_consensus
+post;rust-bio_rust-bio;f29320cbccd8cf8b7724eb62b875c827dcdb911b;Johannes Köster <johannes.koester@tu-dortmund.de>;1686768296;Merge branch 'master' into master
+post;rust-bio_rust-bio;15cb044a2bdb3e38f14af441073c141a7a4f391e;github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>;1686768806;"chore: release 1.3.0 (#529)
+
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+post;rust-bio_rust-bio;da7daea749bd2bbbaf892fff6f2740529ca45140;Nikolai Karpov <kimaska@gmail.com>;1686775930;"perf: improve alignment::distance::levenshtein and alignment::distance::bounded_levenshtein on strrings where distance is small (#522)
+
+* added O(nk) algorithm for edit distance with simd
+
+* small edits
+
+* small edits
+
+* format fixing
+
+* update dependencies
+
+* increase MSRV
+
+---------
+
+Co-authored-by: Johannes Köster <johannes.koester@tu-dortmund.de>
+Co-authored-by: Johannes Koester <johannes.koester@uk-essen.de>"
+post;rust-bio_rust-bio;c0b251d775da898e14e444666bb40acb1c7cc37b;David Laehnemann <david.laehnemann@hhu.de>;1687287231;fix: include `doctests` in test coverage calculation, see https://github.com/xd009642/tarpaulin/issues/538#issuecomment-675921588
+pre;ccsb-scripps_autodock-gpu;222e0a855c76d9faa00474e3841c132a4b2712a2;Leonardo Solis <solis@esa.tu-darmstadt.de>;1549974506;"#52, typo
+"
+pre;ccsb-scripps_autodock-gpu;4722bb58e3ae97d26d9e799728ad9472f0a7db22;Leonardo Solis <solis@esa.tu-darmstadt.de>;1549975074;"#52, more typos
+"
+pre;ccsb-scripps_autodock-gpu;bfe56e21ce73a31d192c2a4fe436ddb7434d1eac;Leonardo Solis <solis@esa.tu-darmstadt.de>;1549983251;"#55, update READMEs
+"
+pre;ccsb-scripps_autodock-gpu;bf42077eff5b38c2df1ddef4b9e5f032e21a5081;Leonardo Solis <solis@esa.tu-darmstadt.de>;1549989066;"#57, improved debug flags for GPUs
+
+passed test on AMD Vega-56 GPU
+
+CPU flags worked with POCL
+"
+pre;ccsb-scripps_autodock-gpu;7daffc3afe4f236e84887436c60a94adb0fff8d9;Leonardo Solis <solis@esa.tu-darmstadt.de>;1549992281;"#58, defined constant for max-grid-points (still 128 as originally)
+"
+pre;ccsb-scripps_autodock-gpu;21453784c3f28ab858da33bf5690bdd66eb03529;Leonardo Solis <solis@esa.tu-darmstadt.de>;1560772239;"add binaries folder
+"
+pre;ccsb-scripps_autodock-gpu;8c6ae406af4d448fd896a7c85186522360cbccbb;Leonardo Solis <solis@esa.tu-darmstadt.de>;1560772665;"more clarifications README.md
+"
+pre;ccsb-scripps_autodock-gpu;6fd2b60f71db65b0ca50f471377a2db743e2d7b3;Leonardo Solis <solis@esa.tu-darmstadt.de>;1560773343;"updates README.md
+"
+pre;ccsb-scripps_autodock-gpu;e799535840d7ea3720fe88d68f77ecd3e346b6b2;Leonardo Solis V <solis@esa.tu-darmstadt.de>;1560781282;Update README.md
+pre;ccsb-scripps_autodock-gpu;1954fb75c154c1ec869afce1371e0cb7310e8d7a;Leonardo Solis V <solis@esa.tu-darmstadt.de>;1560781421;Update README.md
+post;ccsb-scripps_autodock-gpu;38f1040109113a1c8b2f4e91d686078549fd807d;Leonardo Solis V <leonardosolis86@gmail.com>;1584739583;"Scripts and preamble for LGPL relicensing
+"
+post;ccsb-scripps_autodock-gpu;0d11037705bd2f5a44f57281b513cadf94dfbcd7;Leonardo Solis V <leonardosolis86@gmail.com>;1584739681;"LGPL/GPL license on srcs
+"
+post;ccsb-scripps_autodock-gpu;0e0e992fe9528f04c725fb70460a23fbb2b98f3c;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584818722;"Comment out randomization of seed for consistent results while porting
+"
+post;ccsb-scripps_autodock-gpu;9ac27f5f5636cd0b6eaab6bc1885fa408e452f41;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584877761;"Print kernel1 outputs for debugging (temporary)
+"
+post;ccsb-scripps_autodock-gpu;f6fa7f28e70d379d0a643a9a30f8f61bc149b1a8;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584881555;"Remove init coords from rotate coords (meant to do that in previous commit)
+"
+post;ccsb-scripps_autodock-gpu;fd21d8cd343650aa920f5613bfb159d3c941c5ec;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584892190;"Create kokkos structs needed for kernel1
+"
+post;ccsb-scripps_autodock-gpu;21faa22e1bf539a08fdcd0669b13bfe7bda4e0ed;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584900610;"Make calcenergy for consts for kokkos
+"
+post;ccsb-scripps_autodock-gpu;7e758d04ad661ea76d927e8f6f007ba4d6a8884d;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584902928;"Add copy back from kokkos
+"
+post;ccsb-scripps_autodock-gpu;5bcfaa76549dda1fdff66222ac878d6f5e1c327b;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584913094;"Move rotation function to kokkos
+"
+post;ccsb-scripps_autodock-gpu;8be05bec4bef6ae6e625bdab86de40e546e2046d;Aaron Scheinberg <ascheinberg@Aarons-MacBook-Pro.local>;1584977181;"Add docking parameters for ADA
+"
+pre;ebivariation_eva-tools;67b4016ea488d742f429c9c9f6b46a4a43d06c3e;Pablo Arce <pablo.arce.garcia@gmail.com>;1517416187;"Further refactor in VariantToVariantConvextConverterTest
+"
+pre;ebivariation_eva-tools;6a8f8799ec4e6729721d0c68deaf197946e7ad7f;Cristina Yenyxe Gonzalez Garcia <cyenyxe@ebi.ac.uk>;1517841178;"Merge pull request #28 from amilamanoj/spring-data-mongo
+
+EVA-901 Spring Data migration of VCF dumper"
+pre;ebivariation_eva-tools;3d251db12c610f385861aee7300162d8c30246d9;Pablo Arce <pablo.arce.garcia@gmail.com>;1518530165;"BatchReader now returns Batch handle
+"
+pre;ebivariation_eva-tools;4886f1874662f3b7029b62c3a2dada3f5356c917;Pablo Arce <pablo.arce.garcia@gmail.com>;1518540363;"Concatenate always an uppercase handle to the study and file names
+"
+pre;ebivariation_eva-tools;305a44abf56382e572549f8e2d1e2fd51d08945a;Cristina Yenyxe Gonzalez Garcia <cyenyxe@ebi.ac.uk>;1518700704;"Merge pull request #72 from pabarcgar/prependHandleToBatchName
+
+EVA-1082 Prepend batch handle to study and file names"
+pre;ebivariation_eva-tools;7d67739832811a76a8fe78451704df27f906e5f2;Cristina Yenyxe Gonzalez Garcia <cyenyxe@ebi.ac.uk>;1519641691;"Version bumped to 0.2
+"
+pre;ebivariation_eva-tools;fafae18657bb06232c5923e5c5d1c964e00ce45c;Cristina Yenyxe Gonzalez Garcia <cyenyxe@ebi.ac.uk>;1519643342;"Version bumped to 0.3-SNAPSHOT
+"
+pre;ebivariation_eva-tools;8adc0a031d3244f030f704333be0d7b2ac4fec96;jose miguel mut <jomutlo@gmail.com>;1520874303;"bugfix: set in the correct thread the DB to read from
+"
+pre;ebivariation_eva-tools;2ef6b87ef40eac1a7011966819829c1d4aff9429;jose miguel mut <jomutlo@gmail.com>;1521627761;"vcfdump: csq exclusion: test refactoring
+"
+pre;ebivariation_eva-tools;3778aa1218ab82831dce41432a7da0d9e6db4a5b;jose miguel mut <jomutlo@gmail.com>;1522076358;"referenceName should be provided always
+"
+post;ebivariation_eva-tools;5719e962e7b26d475013305a81ed96fe05898a2f;Unknown <sundarvenkata@ebi.ac.uk>;1539010122;"Added chr+pos sort strategy
+
+"
+post;ebivariation_eva-tools;e4e8b16a5fe1af0802c40c3f4019a6e4c247b54c;Amila Silva <amilamanoj@gmail.com>;1539793009;"Merge 82226dbd60ecb38c5ad70ed4793d2cf61eadaf65 into 0758d90439f39339444a8f96b97b1098224a091b
+"
+post;ebivariation_eva-tools;603c994e5955e4159f8fa86e7a0d5626bd391261;Andres Silva <afsilva04@gmail.com>;1544719148;"handle no header error and vcf 4.3 no supported error
+"
+post;ebivariation_eva-tools;f35d309457262b8432426cc3032beef839748fe9;Andres Silva <afsilva04@gmail.com>;1544719804;"delete CrossOrigin annotation used for testing purposes
+"
+post;ebivariation_eva-tools;37fafa1dba8dd01866961dc2cf6b5b6ae384f8de;andresfsilva <30358133+andresfsilva@users.noreply.github.com>;1545151501;"Merge d66cfd44e635f8f87c5714f02a900c9158d3526d into 5baceecc7831d09b95daaee1252bd13bf4a8f20f
+"
+post;ebivariation_eva-tools;baf467ec7b489da7582f8c00527196478bb98c18;Andres Silva <afsilva04@gmail.com>;1547635576;"delete unused imports
+"
+post;ebivariation_eva-tools;0cb6865874b0aca8f2b812d774f967a10b58138d;hritikgupta <hritikgupta9@gmail.com>;1554123129;"removed jdbc datasource configs
+"
+post;ebivariation_eva-tools;ad91e00a449a686fe51129cfe2d9be96693966ee;jmmut <jomutlo@gmail.com>;1554303693;"Merge pull request #84 from hritikgupta/develop
+
+Removed postgres datasource connection
+
+This pull request removes the local postgres connections and JNDI configs."
+post;ebivariation_eva-tools;603bdc6fc34d846cafa04bd334249c52534c4418;hritikgupta <hritikgupta9@gmail.com>;1555333241;"added class-labels to URL
+"
+post;ebivariation_eva-tools;94185e0d211c5a0f923b0208835328a354197ed4;Hritik Gupta <hritikgupta9@gmail.com>;1555424690;"Merge 603bdc6fc34d846cafa04bd334249c52534c4418 into ad91e00a449a686fe51129cfe2d9be96693966ee
+"
+pre;opendatacube_datacube-alchemist;7f8b27b96605cb343e05c39952dc6202df515b2c;Damien Ayers <damien@omad.net>;1694481003;"Add ability to filter datasets being processed
+"
+pre;opendatacube_datacube-alchemist;6cb505ce108198a7c279397f339069a8e43c3fab;Damien Ayers <damien@omad.net>;1694481028;"Merge 7f8b27b96605cb343e05c39952dc6202df515b2c into 23a00df66a6845c8699fe0406832866621fcce2c
+"
+pre;opendatacube_datacube-alchemist;63a0c5944c6f18c4585d02ecc54cccf0731c6864;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1697543687;"Bump whoan/docker-build-with-cache-action from 6.0.0 to 7.0.0
+
+Bumps [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) from 6.0.0 to 7.0.0.
+- [Release notes](https://github.com/whoan/docker-build-with-cache-action/releases)
+- [Commits](https://github.com/whoan/docker-build-with-cache-action/compare/v6.0.0...v7.0.0)
+
+---
+updated-dependencies:
+- dependency-name: whoan/docker-build-with-cache-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;opendatacube_datacube-alchemist;595bff156a0674e33dbd090cf8409f775479f4b7;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1697800129;"Bump whoan/docker-build-with-cache-action from 6.0.0 to 7.0.1
+
+Bumps [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) from 6.0.0 to 7.0.1.
+- [Release notes](https://github.com/whoan/docker-build-with-cache-action/releases)
+- [Commits](https://github.com/whoan/docker-build-with-cache-action/compare/v6.0.0...v7.0.1)
+
+---
+updated-dependencies:
+- dependency-name: whoan/docker-build-with-cache-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;opendatacube_datacube-alchemist;9c0b128d73cb7673fb822d856255e0a9c2b5d910;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1698146640;"Bump whoan/docker-build-with-cache-action from 6.0.0 to 8.0.0
+
+Bumps [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) from 6.0.0 to 8.0.0.
+- [Release notes](https://github.com/whoan/docker-build-with-cache-action/releases)
+- [Commits](https://github.com/whoan/docker-build-with-cache-action/compare/v6.0.0...v8.0.0)
+
+---
+updated-dependencies:
+- dependency-name: whoan/docker-build-with-cache-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;opendatacube_datacube-alchemist;188eeb6546a58907a0eab5cc19b39f7b849457c3;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1698318763;"Bump aquasecurity/trivy-action from 0.10.0 to 0.13.0
+
+Bumps [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) from 0.10.0 to 0.13.0.
+- [Release notes](https://github.com/aquasecurity/trivy-action/releases)
+- [Commits](https://github.com/aquasecurity/trivy-action/compare/0.10.0...0.13.0)
+
+---
+updated-dependencies:
+- dependency-name: aquasecurity/trivy-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;opendatacube_datacube-alchemist;0d5f19484d8cb1d4bd752c4e6477494f8e7965a0;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1699355580;"Merge 5191b6ad55b0d043839bf6d8e3b5bc0e44ee6ee3 into 23a00df66a6845c8699fe0406832866621fcce2c
+"
+pre;opendatacube_datacube-alchemist;065a80c8596fcbc11fde6d4eb81ed7280e38b8d0;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1712596188;"[pre-commit.ci] pre-commit autoupdate
+
+updates:
+- [github.com/pre-commit/pre-commit-hooks: v4.4.0 → v4.6.0](https://github.com/pre-commit/pre-commit-hooks/compare/v4.4.0...v4.6.0)
+- [github.com/psf/black: 23.7.0 → 24.3.0](https://github.com/psf/black/compare/23.7.0...24.3.0)
+- [github.com/PyCQA/flake8: 6.1.0 → 7.0.0](https://github.com/PyCQA/flake8/compare/6.1.0...7.0.0)
+"
+pre;opendatacube_datacube-alchemist;ff84137ee6fabcd045f749706255625469753028;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1712596198;"[pre-commit.ci] auto fixes from pre-commit.com hooks
+
+for more information, see https://pre-commit.ci
+"
+pre;opendatacube_datacube-alchemist;3525afcc0d85693492816de02e3994a57c985732;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1712596202;"Merge ff84137ee6fabcd045f749706255625469753028 into 23a00df66a6845c8699fe0406832866621fcce2c
+"
+post;opendatacube_datacube-alchemist;75768c11fbd5780fa83ac7fb66752723fd1c1dc0;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1728925935;"[pre-commit.ci] pre-commit autoupdate
+
+updates:
+- [github.com/pre-commit/pre-commit-hooks: v4.4.0 → v5.0.0](https://github.com/pre-commit/pre-commit-hooks/compare/v4.4.0...v5.0.0)
+- [github.com/psf/black: 23.7.0 → 24.10.0](https://github.com/psf/black/compare/23.7.0...24.10.0)
+- [github.com/PyCQA/flake8: 6.1.0 → 7.1.1](https://github.com/PyCQA/flake8/compare/6.1.0...7.1.1)
+"
+post;opendatacube_datacube-alchemist;e4e9a7270451853bc122a6dfb72d8adb071c7617;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1739811944;"[pre-commit.ci] pre-commit autoupdate
+
+updates:
+- [github.com/pre-commit/pre-commit-hooks: v4.4.0 → v5.0.0](https://github.com/pre-commit/pre-commit-hooks/compare/v4.4.0...v5.0.0)
+- [github.com/psf/black: 23.7.0 → 25.1.0](https://github.com/psf/black/compare/23.7.0...25.1.0)
+- [github.com/PyCQA/flake8: 6.1.0 → 7.1.2](https://github.com/PyCQA/flake8/compare/6.1.0...7.1.2)
+"
+post;opendatacube_datacube-alchemist;b78278ea6f4cef571b1dbf85ebba6cb6203c0568;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1739811959;"Merge 9a73a1ef6b3918ccd4c0fad7b5eea3154031a612 into 23a00df66a6845c8699fe0406832866621fcce2c
+"
+post;opendatacube_datacube-alchemist;7eb820161f57213c6ce9aef8a4727d9f5b65dcc4;Peter A. Jonsson <jonsson.peter.a@gmail.com>;1750754851;"Stop using docker-compose
+
+The docker-compose command
+has been deprecated for a long
+time, and is no longer available.
+Use docker compose instead, which
+works the same way.
+"
+post;opendatacube_datacube-alchemist;7e6785e4a757be34e6c0521b249ba978dcd08c16;Peter A. Jonsson <jonsson.peter.a@gmail.com>;1751804261;"CI: stop fixing requirements.txt
+
+This file is generated, do not
+change it.
+"
+post;opendatacube_datacube-alchemist;3d0cee7c99b1181c329e34d4c3eeb2e37c01a97a;Peter A. Jonsson <jonsson.peter.a@gmail.com>;1751804729;"CI: pull quietly
+
+The progress bar is annoying
+in CI logs.
+"
+post;opendatacube_datacube-alchemist;0d5a3dbf8e150207d96779a8e2db96e43c63d1ec;Peter A. Jonsson <jonsson.peter.a@gmail.com>;1751877920;"Update dependencies
+
+The ""fc"" package dropped Python 3.8
+support, so update to the most recent
+GDAL image that uses Python >3.8,
+and update the dependencies along
+with that.
+
+This fixes some security issues.
+"
+post;opendatacube_datacube-alchemist;44af084fc9b02bdb74ba3c01f0a898a72540fe21;Paul Haesler <linkjuggler@gmail.com>;1751881382;"Merge pull request #192 from pjonsson/ci-fix-paths
+
+CI: fix name of workflow"
+post;opendatacube_datacube-alchemist;c937746074aadba28b417a89143c18e5b03468f5;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1751896421;"Bump rtCamp/action-slack-notify from 2.2.0 to 2.3.3
+
+Bumps [rtCamp/action-slack-notify](https://github.com/rtcamp/action-slack-notify) from 2.2.0 to 2.3.3.
+- [Release notes](https://github.com/rtcamp/action-slack-notify/releases)
+- [Commits](https://github.com/rtcamp/action-slack-notify/compare/v2.2.0...v2.3.3)
+
+---
+updated-dependencies:
+- dependency-name: rtCamp/action-slack-notify
+  dependency-version: 2.3.3
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;opendatacube_datacube-alchemist;45690d1ac4fc2b46bad89639b37fc689c3386155;pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>;1751907726;"[pre-commit.ci] pre-commit autoupdate
+
+updates:
+- [github.com/PyCQA/flake8: 7.2.0 → 7.3.0](https://github.com/PyCQA/flake8/compare/7.2.0...7.3.0)
+"
